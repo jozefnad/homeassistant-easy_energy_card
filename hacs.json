@@ -1,0 +1,7 @@
+{
+  "name": "Easy Energy Card",
+  "content_type": "lovelace",
+  "render_readme": true,
+  "filename": "easy-energy-card.js",
+  "homeassistant": "2023.9.0"
+}
